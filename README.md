@@ -3,4 +3,4 @@
 easy to use blog application
 
 Technologies Used:
-List the technologies, frameworks, and libraries used in the project, such as Java Spring Boot version, Angular version, and any additional plugins or tools.
+List the technologies, frameworks, and libraries used in the project, are Java Spring Boot version, Angular version.
